@@ -27,4 +27,3 @@ Extra functionality
   lots of sockets open (+100k). Usage::
   
       include sysctl::lotsofsockets
-
